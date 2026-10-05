@@ -2,6 +2,6 @@
 
 int main() 
 {
-    printf("結果は%dです", 1+2);
+    printf("答えは%dです", 3+3);
     return 0;
 }
