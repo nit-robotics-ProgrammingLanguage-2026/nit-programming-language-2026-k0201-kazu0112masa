@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(void) 
+int main() 
 {
-    printf("結果は%dです",3+4);
+    printf("結果は%dです", 1+2);
     return 0;
 }
